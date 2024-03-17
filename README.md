@@ -1,2 +1,2 @@
 # caspr
-CASPR: Automated Evaluation Metric for Contrastive Summarization
+CASPR: Automated Evaluation Metric for Measuring Contrast
